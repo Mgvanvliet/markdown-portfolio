@@ -1,1 +1,1 @@
-(Scubacat)[https://octodex.github.com/scubatocat]
+![Scubacat](https://octodex.github.com/scubatocat)
